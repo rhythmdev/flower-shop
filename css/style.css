@@ -125,3 +125,22 @@ header {
   padding: 80px;
   text-align: center;
 }
+/* hot deal area styles */
+.hot-deal-area {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-top: 110px;
+  padding: 50px;
+}
+.hot-deal-content {
+  text-align: center;
+}
+.hot-deal-content button {
+  margin-top: 20px;
+}
+.off-pink {
+  color: #e55473;
+}
