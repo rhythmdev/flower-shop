@@ -144,3 +144,19 @@ header {
 .off-pink {
   color: #e55473;
 }
+/* instagram area styles */
+.instagram {
+  margin-top: 110px;
+}
+.image-area {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 20px;
+  margin: 50px 180px;
+}
+.image-area img {
+  width: 320px;
+  height: 320px;
+  border-radius: 5px;
+}
